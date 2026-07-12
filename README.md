@@ -66,3 +66,7 @@ modify, and distribute; just keep the copyright notice and credit
 ---
 
 Made with ☕ and Tkinter by **@anxntbhardwaj**
+
+<img width="1920" height="966" alt="Python 3 9 12-07-2026 08_12_58" src="https://github.com/user-attachments/assets/1323d8ce-965b-407d-95cb-ec8e279e34b2" />
+<img width="1920" height="966" alt="Python 3 9 12-07-2026 08_12_40" src="https://github.com/user-attachments/assets/6ddbaa4f-b35b-4b26-9848-23013305d8e6" />
+
